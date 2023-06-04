@@ -4,7 +4,7 @@ function sim() {
 
     setTimeout(()=>{
         window.location.href = '../style/uii.html'
-    }, 9000)
+    }, 4000)
 }
 
 function desvia(btn) {
